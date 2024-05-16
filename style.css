@@ -1,0 +1,30 @@
+h1, button {
+    font-family: monaco,monospace;
+    font-size: 30pt;
+    font-weight: bold;
+    color:rgb(from rgb(21, 37, 21) r g b);
+    background-color:rgb(65, 112, 65);
+    text-align: center;
+}
+
+p, ul, ol, h2, #index {
+    font-family: papyrus, fantasy;
+}
+#index, h2 {
+    font-size: 20pt;
+    font-weight: 400;
+    color: rgb(from rgb(65, 112, 65) r g b);
+    text-align: ;
+}
+p, ul, ol {
+    font-size: 16pt;
+    font-weight: 200;
+    color:rgb(from rgb(21, 37, 21) r g b)
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: auto;
+}
